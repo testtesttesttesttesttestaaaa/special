@@ -14,19 +14,27 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<h1 align="center"> Summand </h1>
-<p align="center"> Summand is a cli that can help you to manage your commands. </p>
-<a href="https://summand.dev"><span style="font-size: 150px;">Summand.dev</span></a>
-<a>Summand Documentation</a><br>
-<a>Summand Download</a>
-<a>Support Summand</a>
+#  Summand
+Summand is a cli that can help you to manage your commands.
 
-## About Summand
+* Summand.dev
+* Summand Documentation
+* Summand Download
+* Support Summand
 
-## Install Summand
+## Getting Started
 
-## Dependencies
+## About
 
+## installation
+
+## policy
+
+## Examples
+
+### Dependencies
+
+### Authors
 
 ### License
 This project is licensed under the terms of the MIT license.
